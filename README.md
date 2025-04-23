@@ -1,4 +1,4 @@
-``markdown
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=58F5FF&center=true&vCenter=true&width=500&lines=Welcome+to+the+Future;MSARHCY's+Digital+Playground;Where+Code+Meets+Neon+Dreams" alt="Animated Header" />
 </p>
@@ -7,7 +7,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk4Y3J1eWl2a2F4Z3l4d2R4bGZ4dW1lY2J5d2Z6b2V4eG5zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HscDLzkO8EOTmgkhQP/giphy.gif" width="150" alt="Glowing Matrix Cube">
 </p>
 
-```diff
 + 🔭 Currently hacking: AI that generates more AI (recursive madness!)
 ! 🌱 Learning: How to teach robots sarcasm
 - 🎯 2024 Goal: Build something that scares Elon Musk
@@ -47,10 +46,3 @@ tech = {
 </p>
 ```
 
----
-
-### **Step 3: Customize (Important!)**
-1. **Update project links**: Replace `FabulaMentor` and `Project X` with your actual projects.
-2. **Social media**: Change `yourhandle`, `yourprofile`, and `youremail@domain.com` to your real links.
-3. **Tech stack**: Edit the `tech` dictionary to match your skills.
-4. **Fun facts**: Modify the `diff` section to reflect your current goals.
